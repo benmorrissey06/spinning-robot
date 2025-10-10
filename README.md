@@ -80,9 +80,3 @@ The robot was calibrated with:
 - MicroPython firmware on Raspberry Pi Pico
 - Standard MicroPython libraries: `machine`, `time`, `math`
 
-## Future Enhancements
-
-- Add sensor feedback for more precise positioning
-- Implement path planning for multiple waypoints
-- Add obstacle avoidance
-- Web interface for remote control
