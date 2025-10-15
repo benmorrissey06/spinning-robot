@@ -1,4 +1,4 @@
-# Spinning Robot Controller
+# Spinning Robot
 
 A Raspberry Pi Pico-based robot controller that can rotate to face specific angles and move forward. The robot uses two motors - one for rotation and one for forward movement.
 
