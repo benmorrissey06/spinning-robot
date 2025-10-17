@@ -68,12 +68,6 @@ Enter angle: 0     # Rotate to 0° and move forward
 - `move()`: Main movement function with angle calculation
 - Main loop: Interactive angle input and movement execution
 
-## Calibration Notes
-
-The robot was calibrated with:
-- Forward movement speed: 100 rad/s equivalent
-- Rotation speed: Fixed duty cycle of 100,000
-- Initial orientation: 180° (robot starts pointing "backward")
 
 ## Dependencies
 
