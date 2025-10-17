@@ -33,8 +33,8 @@ def get_duty_cycleB(rad_pers):#didn't end up using this conversion
     
 #values
 
-drive_forward_speed = int(get_duty_cycleA(100)) 
-rotate_speed = 100000 
+drive_forward_speed = int(get_duty_cycleA(100)) #you decide
+rotate_speed = 60000  
 rotation_time_pdeg = (0.92/180) #s/deg when rotating at specified speed(actually duty cycle) in line above  (empirically determined)
 
 
