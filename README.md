@@ -55,11 +55,6 @@ Enter angle: 0     # Rotate to 0° and move forward
 - Rotation time: 0.92 seconds per 180° at calibrated speed
 - Automatically calculates shortest rotation path (-180° to +180°)
 
-### Safety Features
-- Motor stop function for safe shutdown
-- Direction control via IN pin combinations
-- Speed limiting to prevent motor damage
-
 ## Code Structure
 
 - `get_duty_cycleA()`: Converts desired wheel speed to PWM duty cycle
