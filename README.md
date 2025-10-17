@@ -34,7 +34,6 @@ A Raspberry Pi Pico-based robot controller that can rotate to face specific angl
 1. Upload the code to your Raspberry Pi Pico
 2. Connect the motors as specified in the pin configuration
 3. Power on the robot
-4. Open a serial console (115200 baud)
 5. Enter desired angles (0-360°) to make the robot rotate and move forward
 
 ### Example Commands
